@@ -1,0 +1,806 @@
+[
+	{
+		"NomHotel": "Cap d’Antibes Beach Hotel",
+		"ID": "25890",
+		"PrixHotel": [
+			"US$333"
+		],
+		"jour": [
+			30
+		],
+		"SamediMoinsChère": "le samedi 30 sera le moins cher à 333$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Hôtel de la Plage",
+		"ID": "22676",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Saint James Paris",
+		"ID": "53735",
+		"PrixHotel": [
+			"US$433",
+			"US$433",
+			"US$433",
+			"US$433",
+			"US$565"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 433$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Auberge des Glazicks",
+		"ID": "95084",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Monte-Carlo Beach",
+		"ID": "26113",
+		"PrixHotel": [
+			"US$256",
+			"US$256"
+		],
+		"jour": [
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 23 sera le moins cher à 256$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Locguénolé",
+		"ID": "22617",
+		"PrixHotel": [
+			"US$180",
+			"US$180",
+			"US$180",
+			"US$180",
+			"US$249"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 180$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Villa Florentine",
+		"ID": "22688",
+		"PrixHotel": [
+			"US$464",
+			"US$464",
+			"US$464",
+			"US$464",
+			"US$577"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 464$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Les Hautes Roches",
+		"ID": "22580",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Codignat",
+		"ID": "22747",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Hôtel du Bois Blanc",
+		"ID": "67292",
+		"PrixHotel": [
+			"US$204",
+			"US$204",
+			"US$204"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 204$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Tiara Yaktsa",
+		"ID": "64456",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Mercuès",
+		"ID": "22635",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Manoir de Lan-Kerellec",
+		"ID": "22675",
+		"PrixHotel": [
+			"US$237",
+			"US$248",
+			"US$248"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 237$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Maison Decoret",
+		"ID": "71632",
+		"PrixHotel": [
+			"US$209",
+			"US$173"
+		],
+		"jour": [
+			16,
+			30
+		],
+		"SamediMoinsChère": "le samedi 30 sera le moins cher à 173$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Château de Bagnols",
+		"ID": "68955",
+		"PrixHotel": [
+			"US$311",
+			"US$281",
+			"US$281"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 23 sera le moins cher à 281$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Le Saint-Paul",
+		"ID": "22764",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Hôtel Restaurant Clos des Sens - Laurent PETIT",
+		"ID": "74997",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Hôtel Les Barmes de l'Ours",
+		"ID": "74701",
+		"PrixHotel": [
+			"US$1531",
+			"US$769",
+			"US$1316",
+			"US$1531",
+			"US$368"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 1316$",
+		"index": 2
+	},
+	{
+		"NomHotel": "Hôtel Parc Victoria",
+		"ID": "22597",
+		"PrixHotel": [
+			"US$181",
+			"US$221",
+			"US$181"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 181$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Baumanière Hôtel & Spa",
+		"ID": "22687",
+		"PrixHotel": [
+			"US$311",
+			"US$311",
+			"US$339",
+			"US$311",
+			"US$339"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 311$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Villa Gallici",
+		"ID": "22750",
+		"PrixHotel": [
+			"US$475",
+			"US$554",
+			"US$441",
+			"US$554",
+			"US$961"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 441$",
+		"index": 2
+	},
+	{
+		"NomHotel": "Marquis Faubourg Saint-Honoré",
+		"ID": "66980",
+		"PrixHotel": [
+			"US$1163",
+			"US$875",
+			"US$875",
+			"US$954",
+			"US$1044"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 30 sera le moins cher à 1044$",
+		"index": 4
+	},
+	{
+		"NomHotel": "Abbaye de la Bussière",
+		"ID": "22926",
+		"PrixHotel": [
+			"US$413",
+			"US$255",
+			"US$289",
+			"US$289",
+			"US$413"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 9 sera le moins cher à 255$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Le Phébus & Spa - Villa des Anges",
+		"ID": "22724",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Germigney",
+		"ID": "22613",
+		"PrixHotel": [
+			"US$249",
+			"US$272",
+			"US$193",
+			"US$193",
+			"US$249"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 193$",
+		"index": 2
+	},
+	{
+		"NomHotel": "Anne de Bretagne",
+		"ID": "56232",
+		"PrixHotel": [
+			"US$220",
+			"US$164",
+			"US$164",
+			"US$164"
+		],
+		"jour": [
+			2,
+			9,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 9 sera le moins cher à 164$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Jiva Hill Resort",
+		"ID": "58405",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité ce mois ci",
+		"index": 0
+	},
+	{
+		"NomHotel": "Les Bas Rupts",
+		"ID": "22861",
+		"PrixHotel": [
+			"US$289",
+			"US$232",
+			"US$232",
+			"US$232",
+			"US$232"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 9 sera le moins cher à 232$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Château Cordeillan-Bages",
+		"ID": "22650",
+		"PrixHotel": [
+			"US$193",
+			"US$193",
+			"US$193"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 193$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Auberge du Jeu de Paume",
+		"ID": "59517",
+		"PrixHotel": [
+			"US$448",
+			"US$448",
+			"US$448",
+			"US$414",
+			"US$414"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 23 sera le moins cher à 414$",
+		"index": 3
+	},
+	{
+		"NomHotel": "Maison Doucet",
+		"ID": "71700",
+		"PrixHotel": [
+			"US$186",
+			"US$186",
+			"US$186",
+			"US$168",
+			"US$168"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 23 sera le moins cher à 168$",
+		"index": 3
+	},
+	{
+		"NomHotel": "Au Cœur du Village Hôtel & Spa",
+		"ID": "55396",
+		"PrixHotel": [
+			"US$1102",
+			"US$1141",
+			"US$904",
+			"US$859",
+			"US$746"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 1102$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Berne",
+		"ID": "23386",
+		"PrixHotel": [
+			"US$386",
+			"US$318",
+			"US$318",
+			"US$318",
+			"US$318"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 9 sera le moins cher à 318$",
+		"index": 1
+	},
+	{
+		"NomHotel": "La Côte Saint Jacques & Spa",
+		"ID": "22647",
+		"PrixHotel": [
+			"US$560",
+			"US$560",
+			"US$560",
+			"US$560",
+			"US$560"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 560$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château des Avenières",
+		"ID": "63179",
+		"PrixHotel": [
+			"US$181",
+			"US$204",
+			"US$181",
+			"US$193",
+			"US$204"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 181$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Maison Pic",
+		"ID": "22766",
+		"PrixHotel": [
+			"US$606",
+			"US$413",
+			"US$458"
+		],
+		"jour": [
+			2,
+			16,
+			23
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 413$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Hôtel Restaurant Auberge du Père Bise – Jean Sulpice",
+		"ID": "22693",
+		"PrixHotel": [
+			"US$598",
+			"US$406",
+			"US$542",
+			"US$338",
+			"US$406"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 23 sera le moins cher à 338$",
+		"index": 3
+	},
+	{
+		"NomHotel": "La Chapelle Saint-Martin",
+		"ID": "22774",
+		"PrixHotel": [
+			"US$164",
+			"US$164",
+			"US$164",
+			"US$164",
+			"US$164"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 164$",
+		"index": 0
+	},
+	{
+		"NomHotel": "La Bastide Saint-Antoine",
+		"ID": "22717",
+		"PrixHotel": [
+			"US$279",
+			"US$328",
+			"US$407",
+			"US$295",
+			"US$234"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 30 sera le moins cher à 234$",
+		"index": 4
+	},
+	{
+		"NomHotel": "La Bastide",
+		"ID": "55787",
+		"PrixHotel": [
+			"US$249",
+			"US$249",
+			"US$272",
+			"US$322",
+			"US$272"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 249$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur",
+		"ID": "71703",
+		"PrixHotel": [
+			"US$531"
+		],
+		"jour": [
+			2
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 531$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de La Chèvre d’Or",
+		"ID": "22654",
+		"PrixHotel": [
+			"US$373",
+			"US$340",
+			"US$268",
+			"US$373"
+		],
+		"jour": [
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 23 sera le moins cher à 268$",
+		"index": 2
+	},
+	{
+		"NomHotel": "Brittany & Spa",
+		"ID": "22967",
+		"PrixHotel": [
+			"US$189",
+			"US$189",
+			"US$189",
+			"US$189",
+			"US$189"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 189$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Pan Deï Palais",
+		"ID": "51539",
+		"PrixHotel": [
+			"US$435",
+			"US$435",
+			"US$435",
+			"US$283",
+			"US$339"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 23 sera le moins cher à 283$",
+		"index": 3
+	},
+	{
+		"NomHotel": "Auberge des Templiers",
+		"ID": "22598",
+		"PrixHotel": [
+			"US$176",
+			"US$187",
+			"US$187",
+			"US$221",
+			"US$209"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 176$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Cazaudehore « La Forestière »",
+		"ID": "22626",
+		"PrixHotel": [
+			"US$171",
+			"US$171",
+			"US$183",
+			"US$183",
+			"US$183"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 171$",
+		"index": 0
+	},
+	{
+		"NomHotel": "La Bastide de Saint-Tropez",
+		"ID": "23387",
+		"PrixHotel": [
+			"US$249",
+			"US$249",
+			"US$249",
+			"US$249",
+			"US$249"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 2 sera le moins cher à 249$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Castel Clara Thalasso & Spa",
+		"ID": "22638",
+		"PrixHotel": [
+			"US$246",
+			"US$232",
+			"US$232",
+			"US$232",
+			"US$292"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 9 sera le moins cher à 232$",
+		"index": 1
+	},
+	{
+		"NomHotel": "La Ferme Saint-Siméon",
+		"ID": "22591",
+		"PrixHotel": [
+			"US$520",
+			"US$452",
+			"US$396",
+			"US$396",
+			"US$452"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "le samedi 16 sera le moins cher à 396$",
+		"index": 2
+	}
+]

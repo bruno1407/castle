@@ -1,0 +1,490 @@
+[
+	{
+		"NomHotel": "Hôtel de la Plage",
+		"ID": "22676",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "Auberge des Glazicks",
+		"ID": "95084",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Codignat",
+		"ID": "22747",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "Tiara Yaktsa",
+		"ID": "64456",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "L’Arnsbourg Restaurant et Hôtel",
+		"ID": "22735",
+		"PrixHotel": [
+			"US$221",
+			"US$198",
+			"US$221"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 23 sera le moins cher à 198$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Les Bergeries de Palombaggia",
+		"ID": "63208",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "Cap d’Antibes Beach Hotel",
+		"ID": "25890",
+		"PrixHotel": [
+			"US$333"
+		],
+		"jour": [
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 30 sera le moins cher à 333$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Le Saint-Paul",
+		"ID": "22764",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "Manoir de Lan-Kerellec",
+		"ID": "22675",
+		"PrixHotel": [
+			"US$237",
+			"US$248",
+			"US$248"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 16 sera le moins cher à 237$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Abbaye de la Bussière",
+		"ID": "22926",
+		"PrixHotel": [
+			"US$413",
+			"US$255",
+			"US$289",
+			"US$289",
+			"US$413"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 9 sera le moins cher à 255$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Hôtel Parc Victoria",
+		"ID": "22597",
+		"PrixHotel": [
+			"US$181",
+			"US$221",
+			"US$181"
+		],
+		"jour": [
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 16 sera le moins cher à 181$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Brittany & Spa",
+		"ID": "22967",
+		"PrixHotel": [
+			"US$189",
+			"US$189",
+			"US$189",
+			"US$189",
+			"US$189"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 189$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Yoann Conte – Bord du Lac Hôtel Restaurant",
+		"ID": "63431",
+		"PrixHotel": [
+			"US$520",
+			"US$690",
+			"US$520",
+			"US$520"
+		],
+		"jour": [
+			2,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 520$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Relais de la Poste",
+		"ID": "22765",
+		"PrixHotel": [
+			"US$249",
+			"US$226",
+			"US$224",
+			"US$224",
+			"US$224"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 16 sera le moins cher à 224$",
+		"index": 2
+	},
+	{
+		"NomHotel": "Au Cœur du Village Hôtel & Spa",
+		"ID": "55396",
+		"PrixHotel": [
+			"US$1102",
+			"US$1141",
+			"US$904",
+			"US$859",
+			"US$746"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 1102$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Montreuil",
+		"ID": "22720",
+		"PrixHotel": [
+			"US$281",
+			"US$281",
+			"US$281",
+			"US$281"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 281$",
+		"index": 0
+	},
+	{
+		"NomHotel": "La Bastide",
+		"ID": "55787",
+		"PrixHotel": [
+			"US$249",
+			"US$249",
+			"US$272",
+			"US$322",
+			"US$272"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 249$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Villa Florentine",
+		"ID": "22688",
+		"PrixHotel": [
+			"US$464",
+			"US$464",
+			"US$464",
+			"US$464",
+			"US$577"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 464$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Le Saint-James Bouliac",
+		"ID": "22651",
+		"PrixHotel": [
+			"US$243",
+			"US$243",
+			"US$243",
+			"US$294",
+			"US$294"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 243$",
+		"index": 0
+	},
+	{
+		"NomHotel": "La Bastide de Capelongue",
+		"ID": "53000",
+		"PrixHotel": [
+			"US$208",
+			"US$171",
+			"US$204",
+			"US$244",
+			"US$204"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 9 sera le moins cher à 171$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Hôtel Restaurant Clos des Sens - Laurent PETIT",
+		"ID": "74997",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur",
+		"ID": "71703",
+		"PrixHotel": [
+			"US$531"
+		],
+		"jour": [
+			2
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 531$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Hôtel Les Barmes de l'Ours",
+		"ID": "74701",
+		"PrixHotel": [
+			"US$1531",
+			"US$769",
+			"US$1316",
+			"US$1531",
+			"US$435"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 16 sera le moins cher à 1316$",
+		"index": 2
+	},
+	{
+		"NomHotel": "Marquis Faubourg Saint-Honoré",
+		"ID": "66980",
+		"PrixHotel": [
+			"US$1163",
+			"US$875",
+			"US$875",
+			"US$954",
+			"US$1044"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 30 sera le moins cher à 1044$",
+		"index": 4
+	},
+	{
+		"NomHotel": "Michel Trama",
+		"ID": "22649",
+		"PrixHotel": [
+			"US$362",
+			"US$249",
+			"US$249",
+			"US$249",
+			"US$249"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 9 sera le moins cher à 249$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Jiva Hill Resort",
+		"ID": "58405",
+		"PrixHotel": [],
+		"jour": [],
+		"SamediMoinsChère": "Pas de disponibilité le mois de mars",
+		"index": 0
+	},
+	{
+		"NomHotel": "La Chapelle Saint-Martin",
+		"ID": "22774",
+		"PrixHotel": [
+			"US$164",
+			"US$164",
+			"US$164",
+			"US$164",
+			"US$164"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 164$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Château de Berne",
+		"ID": "23386",
+		"PrixHotel": [
+			"US$386",
+			"US$373",
+			"US$373",
+			"US$373",
+			"US$373"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 9 sera le moins cher à 373$",
+		"index": 1
+	},
+	{
+		"NomHotel": "Maison Pic",
+		"ID": "22766",
+		"PrixHotel": [
+			"US$606",
+			"US$458",
+			"US$458"
+		],
+		"jour": [
+			2,
+			16,
+			23
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 16 sera le moins cher à 458$",
+		"index": 1
+	},
+	{
+		"NomHotel": "La Côte Saint Jacques & Spa",
+		"ID": "22647",
+		"PrixHotel": [
+			"US$560",
+			"US$667",
+			"US$560",
+			"US$560",
+			"US$560"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 560$",
+		"index": 0
+	},
+	{
+		"NomHotel": "Cazaudehore « La Forestière »",
+		"ID": "22626",
+		"PrixHotel": [
+			"US$171",
+			"US$171",
+			"US$183",
+			"US$183",
+			"US$183"
+		],
+		"jour": [
+			2,
+			9,
+			16,
+			23,
+			30
+		],
+		"SamediMoinsChère": "Pour le mois de mars, le samedi 2 sera le moins cher à 171$",
+		"index": 0
+	}
+]
