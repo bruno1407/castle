@@ -11,7 +11,7 @@ var tableauMichelin=function(){
 					$('div.poi_card-display-title').each(function(i, element){
 						var a = $(this);
 					 	TableauResto.push(a.text().trim());			 
-						if (TableauResto.length==626)
+						if (TableauResto.length==624)
 						{
 							resolve(TableauResto)
 						}						
